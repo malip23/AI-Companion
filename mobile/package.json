@@ -8,17 +8,25 @@
     "ios": "expo start --ios"
   },
   "dependencies": {
-    "@vapi-ai/react-native": "latest",
-    "expo": "~51.0.0",
-    "expo-av": "~14.0.0",
-    "expo-constants": "~16.0.0",
-    "expo-device": "~6.0.0",
-    "expo-notifications": "~0.28.0",
-    "react": "18.2.0",
-    "react-native": "0.74.0"
+    "@daily-co/react-native-daily-js": "^0.84.1",
+    "@daily-co/react-native-webrtc": "^124.0.6-daily.1",
+    "@react-native-async-storage/async-storage": "^3.0.2",
+    "@vapi-ai/react-native": "0.2.2",
+    "base-64": "^1.0.0",
+    "expo": "~54.0.0",
+    "expo-av": "~15.0.0",
+    "expo-constants": "~17.0.0",
+    "expo-dev-client": "^55.0.20-canary-20260328-bdc6273",
+    "expo-device": "~7.0.0",
+    "expo-notifications": "~0.29.0",
+    "react": "18.3.1",
+    "react-native": "0.76.7",
+    "react-native-background-timer": "^2.4.1",
+    "react-native-get-random-values": "^2.0.0",
+    "react-native-url-polyfill": "^3.0.0"
   },
   "devDependencies": {
-    "@types/react": "~18.2.0",
+    "@types/react": "~18.3.0",
     "@types/react-native": "~0.73.0",
     "typescript": "^5.3.0"
   }

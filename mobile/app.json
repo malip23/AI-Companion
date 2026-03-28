@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "AI Companion",
+    "slug": "ai-companion-mobile",
+    "version": "1.0.0",
+    "platforms": [
+      "ios"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.aicompanion.mobile",
+      "supportsTablet": false,
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6e275690-b262-43f1-a51d-5b77ea82e9f3"
+      }
+    }
+  }
+}
